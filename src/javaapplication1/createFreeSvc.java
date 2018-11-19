@@ -10,5 +10,5 @@ package javaapplication1;
  * @author User
  */
 public class createFreeSvc {
-    int raratwsety = 546;
+    int raratwsety = 543123216;
 }
