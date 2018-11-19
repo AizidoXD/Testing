@@ -15,6 +15,8 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        boolean imdone = true;
+        
         // TODO code applaication logic hereafef
     }
     
