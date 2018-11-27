@@ -18,6 +18,7 @@ public class JavaApplication1 {
         boolean imdone1 = true;
         
         // TODO code applaication logic hereafef
+        System.out.println("Hello world");
     }
     
 }
